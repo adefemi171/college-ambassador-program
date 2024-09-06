@@ -8,11 +8,11 @@ I believe the best way to get involved in tech is to be a part of a community. T
 
 ## Please add ambassador programs to their respective country in alphabetical order
 
-**The only criteria for adding ambassador program is to link the program to where students can easily apply**
+**The only criteria for adding an ambassador program is to link the program to where students can easily apply**
 
 ### Format
 
-Please add countries alphabetical by last name.
+Please add countries alphabetically by  name.
 
 #### Full Name
 
