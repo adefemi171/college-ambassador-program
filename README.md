@@ -142,6 +142,7 @@ Please add countries alphabetically by  name.
 - [MLH Hackathon Organizer](https://mlh.io/event-membership) by Major League Hacking.
 
 - [Twillio Champions](https://www.twilio.com/en-us/champions) by Twillio.
+- [Claude Campus Program](https://anthropic.com/campus) by Claude
 
 ### Zambia
 
